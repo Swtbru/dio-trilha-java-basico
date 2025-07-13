@@ -5,7 +5,7 @@ public class ContaTerminal {
           
         var scanner = new Scanner(System.in);
 
-        System.out.println("Por favor, informe seu nome:");
+        System.out.println("Por favor, digite seu nome:");
         var name = scanner.next();
 
         System.out.println("Por favor, informe qual sua agência:");
